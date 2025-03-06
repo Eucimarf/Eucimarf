@@ -14,7 +14,6 @@ Futura Desenvolvedora Full Stack cursando Análise e Desenvolvimento de Sistemas
 ![Vscode](https://img.shields.io/badge/Vscode-002?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/java-002?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-002?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-002?style=for-the-badge&logo=.net&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-002?style=for-the-badge&logo=springboot&logoColor=white)
 
 
